@@ -1,9 +1,12 @@
 # CS Teams Editor
-This plugin is designed to modify and supplement default team select menu in Counter-Strike 1.6 and Counter-Strike Condition Zero.
+*v1.0.1, 2013*
 
-https://forums.alliedmods.net/showthread.php?t=224906
+CS Teams Editor is designed to modify and supplement default team select menu in Counter-Strike 1.6 and Counter-Strike Condition Zero.
 
-# License
+<https://forums.alliedmods.net/showthread.php?t=224906>
+
+
+## License
 ```
 CS Teams Editor is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
