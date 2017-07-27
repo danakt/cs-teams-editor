@@ -6,10 +6,9 @@ CS Teams Editor is designed to modify and supplement default team select menu in
 [CS Teams Editor on AlliedModders](https://forums.alliedmods.net/showthread.php?t=224906)
 
 ## Screenshots
-![Config](https://dl.dropboxusercontent.com/u/85241429/CS%20Team%20Editor/CSTeamsEditor1.png)  
-![Teams menu](https://dl.dropboxusercontent.com/u/85241429/CS%20Team%20Editor/CSTeamsEditor2.png)  
-![Classes menu](https://dl.dropboxusercontent.com/u/85241429/CS%20Team%20Editor/CSTeamsEditor3.png)
-
+![Config](screenshots/0.png)  
+![Teams menu](screenshots/1.png)  
+![Classes menu](screenshots/2.png)
 
 ## License
 ```
